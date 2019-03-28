@@ -1,0 +1,8 @@
+{
+  "name": "botcamp",
+  "version": "1.0.0",
+  "description": "Projeto do aplicativo bot da Impulso Network",
+  "main": "index.js",
+  "author": "Wellington Cunha",
+  "license": "MPL-2.0"
+}
